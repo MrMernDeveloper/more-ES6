@@ -28,3 +28,4 @@ const user = {
 
 const userFloor = user?.address?.stret?.first; // this is called chaining
 console.log(userFloor);
+
